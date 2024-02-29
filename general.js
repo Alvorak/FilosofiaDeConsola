@@ -37,7 +37,12 @@ document.addEventListener("DOMContentLoaded", function() {
       "It is not the wound that teaches,\nbut the healing.\n- Guts, Berserk",
       "The important choices you make might not always be the right ones,\nbut that's okay.\nYou can always learn and grow from your mistakes.\n- Farnese, Berserk",
       "We are not bound by the chains of the past,\nbut we can build a future based on the present.\n- Isidro, Berserk",
-      "Strength is not just about the body.\nIt's about the will and the heart.\n- Guts, Berserk"  
+      "Strength is not just about the body.\nIt's about the will and the heart.\n- Guts, Berserk",
+      "In this world, those who break the rules are scum,\nbut those who abandon their friends are worse than scum.\n- Askeladd, Vinland Saga",
+      "Life is not just about life and death. You must exist for something, to accomplish something.\n- Thors, Vinland Saga",
+      "The seed that never grows will die, and the seed that grows too quickly will be choked by its own leaves.\n- Canute, Vinland Saga",
+      "To truly understand someone,\nyou must listen not only to their words but also to their silence.\n– Thors, Vinland Saga",
+      "War does not determine who is right.\nOnly who is left.\n– Askeladd, Vinland Saga"
     ];
 
   // Obtener el elemento del terminal
