@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", function() {
           index++;
           setTimeout(function() {
               mostrarLetras(texto, index);
-          }, 100); // Ajusta la velocidad de escritura según tu preferencia
+          }, 40); // Ajusta la velocidad de escritura según tu preferencia
       }
   }
 
